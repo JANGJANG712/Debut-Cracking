@@ -11,5 +11,5 @@ http://www.torchsoft.com/download/RegistryWorkshop.exe
 
 HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System
 
-이 값을 복사해(한글자도 빼먹거나 추가하면 안됨) Adress 칸에 있는 기존 내용을 모두 삭제하고 붙여 넣는다.
+이 값을 복사해(글자가 제대로 복사되었는지 확인하세요) Adress 칸에 있는 기존 내용을 모두 삭제하고 붙여 넣는다.
 DisableRegistryTools라는 값이 보일 것이다. Del 키를 눌러 삭제한다.
