@@ -7,7 +7,6 @@
 아니라면 파일을 다시 실행한다.
 
 http://www.torchsoft.com/download/RegistryWorkshop.exe
-
 설치 후 실행한다.
 
 HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System
